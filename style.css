@@ -6,22 +6,22 @@
 
 #imagem1 {
     background-image: url('imagens/anduin.png');
-    background-position: center;
+    background-position: center center;
 }
 
 #imagem2 {
     background-image: url('imagens/alleria.png');
-    background-position: center;
+    background-position: center center;
 }
 
 #imagem3 {
     background-image: url('imagens/xalata.png');
-    background-position: center;
+    background-position: center center;
 }
 
 #imagem4 {
     background-image: url('imagens/faerin.png');
-    background-position: center;
+    background-position: center center;
 }
 
 .pagina:nth-child(odd){
