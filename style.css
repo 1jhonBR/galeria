@@ -49,6 +49,7 @@
     border-radius: 50px;
     transition: width 0.5s;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.438);
+    cursor: pointer;
 }
 
 .pagina:hover {
